@@ -1,0 +1,32 @@
+{
+    "name": "theme-oceanicnext",
+    "displayName": "Oceanic Next",
+    "description": "Oceanic Next Color Scheme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "kaicataldo",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Next Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Next.tmTheme"
+            },
+            {
+                "label": "Oceanic Next Dark Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Next Italic.tmTheme"
+            },
+            {
+                "label": "Oceanic Next Dark Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Next Operator.tmTheme"
+            }
+        ]
+    }
+}
