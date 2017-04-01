@@ -13,6 +13,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Oceanic Next Dark Sublime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Next Sublime.tmTheme"
+            },
+            {
                 "label": "Oceanic Next Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Oceanic Next.tmTheme"
