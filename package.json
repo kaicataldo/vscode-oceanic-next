@@ -4,6 +4,14 @@
     "description": "Oceanic Next Color Scheme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "kaicataldo",
+    "homepage": "https://github.com/kaicataldo/vscode-oceanic-next",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kaicataldo/vscode-oceanic-next.git"
+    },
+    "bugs": {
+      "url": "https://github.com/kaicataldo/vscode-oceanic-next/issues"
+    },
     "engines": {
         "vscode": "^1.10.0"
     },
